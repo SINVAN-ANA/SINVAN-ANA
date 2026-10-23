@@ -1,5 +1,7 @@
 # Hi, I'm SINVAN-ANA 👋
 
+![Animated 3D globe](./orbit-3d.svg)
+
 I enjoy building practical projects that solve everyday problems. My recent work includes a graph-powered trip planner for South India and a command-line student management program.
 
 ## What I'm working on
