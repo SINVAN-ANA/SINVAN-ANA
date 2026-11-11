@@ -48,6 +48,17 @@
   <img src="https://img.shields.io/badge/Cypher-4F46E5?style=for-the-badge&logo=neo4j&logoColor=white" alt="Cypher" />
 </p>
 
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SINVAN-ANA&include_all_commits=true&show_icons=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub stats showing commits, stars, pull requests, and rank" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SINVAN-ANA&layout=compact&theme=tokyonight" height="180" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SINVAN-ANA&theme=tokyonight" alt="GitHub contribution streak showing current and longest streaks" />
+</p>
+
 ## 🦉 Find me
 
 <p>
